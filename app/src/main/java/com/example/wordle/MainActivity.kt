@@ -52,6 +52,7 @@ class MainActivity : AppCompatActivity() {
             resetBtn.setOnClickListener {
                 numOfGuesses=0
                 wordToGuess = FourLetterWordList.FourLetterWordList.getRandomFourLetterWord()
+                guesses.text = ""
                 editText.visibility=View.VISIBLE
                 submitBtn.visibility=View.VISIBLE
                 guesses.visibility=View.INVISIBLE
