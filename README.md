@@ -1,6 +1,7 @@
-# Android Project 1 - Wordle
+# Android Project 1 - <a href="https://recordit.co/3GkuJitEHA">Wordle</a>
 
 Submitted by: **Amber Lewis**
+
 
 **Wordle** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
@@ -32,18 +33,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![3GkuJitEHA](https://user-images.githubusercontent.com/93353341/189716011-84061907-e276-4b41-b847-d3385a6e78f2.gif)
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+- Recordit
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+- I had a problem just displaying the previous answers on screen. I need to practice debugging on Android Studio
 
 ## License
 
